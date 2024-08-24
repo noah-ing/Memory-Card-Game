@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "React TypeScript on Replit, using Vite bundler",
+  "homepage": "https://noah-ing.github.io/Memory-Card-Game",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

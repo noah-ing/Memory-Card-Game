@@ -6,6 +6,7 @@ import autoprefixer from "autoprefixer";
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/Memory-Card-Game/", // Add your repo name here
   plugins: [react()],
   resolve: {
     alias: {
